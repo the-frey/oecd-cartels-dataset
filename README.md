@@ -1,4 +1,4 @@
-# OECD Cartels Datasets: Deduplicated
+# Deduplicated OECD Cartels Database
 
 This repository contains deduplicated versions of the OECD cartels dataset.
 
